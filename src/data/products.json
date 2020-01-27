@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "United Color beniton",
+      "price": 499.99,
+      "currency": "EUR",
+      "image": "images/01.jpg",
+      "url": "https://i.picsum.photos/id/161/200/200.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Adidas sports shoes",
+      "price": 249.99,
+      "currency": "EUR",
+      "image": "images/02.jpg",
+      "url": "https://i.picsum.photos/id/165/200/200.jpg"
+    },
+    {
+      
+      "id": 4,
+      "name": "Adidas",
+      "price": 239.99,
+      "currency": "EUR",
+      "image": "images/04.jpg",
+      "url": "https://i.picsum.photos/id/100/200/200.jpg"
+    },
+    {
+      "id": 6,
+      "name": "PUMA sports ",
+      "price": 119.99,
+      "currency": "EUR",
+      "image": "images/06.jpg",
+      "url": "https://i.picsum.photos/id/160/200/200.jpg"
+    },
+    {
+      "id": 5,
+      "name": "puma track",
+      "price": 599.99,
+      "currency": "EUR",
+      "image": "images/05.jpg",
+      "url": "https://i.picsum.photos/id/167/200/200.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adidas track",
+      "price": 149.99,
+      "currency": "EUR",
+      "image": "images/03.jpg",
+      "url": "https://i.picsum.photos/id/169/200/200.jpg"
+    }
+  ]
